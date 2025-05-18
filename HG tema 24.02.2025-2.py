@@ -1,5 +1,5 @@
 # Se cere translatia de vectori v=2i+2j a triunghiului ABC de varfuri A(1,2), B(5,6), C(-2,-1)
-# NU MERGE CALUMEA
+# mai treb lucrat
 import turtle
 
 screen = turtle.Screen()
